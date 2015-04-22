@@ -4778,8 +4778,8 @@ For more info: http://blog.angularjs.org/2013/12/angularjs-13-new-release-approa
 
 
 
-<a name="1.3.0-beta.1"></a>
-# 1.3.0-beta.1 retractable-eyebrow (2014-03-07)
+<a name="1.2.14"></a>
+# 1.2.14 feisty-cryokinesis (2014-03-01)
 
 
 ## Bug Fixes
@@ -4818,13 +4818,6 @@ For more info: http://blog.angularjs.org/2013/12/angularjs-13-new-release-approa
    [#4293](https://github.com/angular/angular.js/issues/4293), [#2144](https://github.com/angular/angular.js/issues/2144), [#4857](https://github.com/angular/angular.js/issues/4857), [#5120](https://github.com/angular/angular.js/issues/5120), [#4945](https://github.com/angular/angular.js/issues/4945), [#5500](https://github.com/angular/angular.js/issues/5500), [#5944](https://github.com/angular/angular.js/issues/5944))
 - **isElement:** reduce false-positives in isElement tests
   ([75515852](https://github.com/angular/angular.js/commit/75515852ea9742d3d84a0f463c2a2c61ef2b7323))
-- **jqLite:**
-  - properly toggle multiple classes
-  ([4e73c80b](https://github.com/angular/angular.js/commit/4e73c80b17bd237a8491782bcf9e19f1889e12ed),
-   [#4467](https://github.com/angular/angular.js/issues/4467), [#6448](https://github.com/angular/angular.js/issues/6448))
-  - make jqLite('<iframe src="someurl">').contents() return iframe document, as in jQuery
-  ([05fbed57](https://github.com/angular/angular.js/commit/05fbed5710b702c111c1425a9e241c40d13b0a54),
-   [#6320](https://github.com/angular/angular.js/issues/6320), [#6323](https://github.com/angular/angular.js/issues/6323))
 - **numberFilter:** convert all non-finite/non-numbers/non-numeric strings to the empty string
   ([cceb455f](https://github.com/angular/angular.js/commit/cceb455fb167571e26341ded6b595dafd4d92bc6),
    [#6188](https://github.com/angular/angular.js/issues/6188), [#6261](https://github.com/angular/angular.js/issues/6261))

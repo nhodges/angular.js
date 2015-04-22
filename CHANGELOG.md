@@ -4778,8 +4778,8 @@ For more info: http://blog.angularjs.org/2013/12/angularjs-13-new-release-approa
 
 
 
-<a name="1.2.14"></a>
-# 1.2.14 feisty-cryokinesis (2014-03-01)
+<a name="1.3.0-beta.1"></a>
+# 1.3.0-beta.1 retractable-eyebrow (2014-03-07)
 
 
 ## Bug Fixes
